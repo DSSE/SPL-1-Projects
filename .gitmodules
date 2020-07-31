@@ -1,0 +1,6 @@
+[submodule "Batch-11/bsse-1109/bsse-1109/Text-Summarization-Tool"]
+	path = Batch-11/bsse-1109/bsse-1109/Text-Summarization-Tool
+	url = https://github.com/jaf107/Text-Summarization-Tool
+[submodule "Batch-11/bsse-1114/bsse-1109/SoftwareProjectLab"]
+	path = Batch-11/bsse-1114/bsse-1109/SoftwareProjectLab
+	url = https://github.com/musta55/SoftwareProjectLab
